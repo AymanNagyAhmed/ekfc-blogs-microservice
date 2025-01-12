@@ -34,7 +34,7 @@
 - JWT_SECRET=
 - JWT_EXPIRES_IN=1d
 
-## Regular Installation [or Install using docker](https://github.com/AymanNagyAhmed/ekfc-task)
+## Regular Installation [or Install using docker](https://github.com/AymanNagyAhmed/ekfc-t)
 
 ### Local Development Setup
 1. Clone the repository
